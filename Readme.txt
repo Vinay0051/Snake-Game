@@ -1,0 +1,5 @@
+->To play snake game 
+->Run snakes.py file using vs code  or terminal
+->To run python file using terminal 
+->Type : python3 snakes.py
+->Hit enter
